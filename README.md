@@ -1,2 +1,2 @@
-# graphs
-Please build using eclipse
+# Build
+Please use eclipse to build
